@@ -19,9 +19,9 @@ The FIFO is designed with configurable depth and word size, and verified using S
 
 📂 Files in this Project
 
-FIFO.v → RTL design (Synchronous FIFO)
+FIFO.sv → RTL design (Synchronous FIFO)
 
-FIFO_tb.v → Testbench with multiple scenarios
+FIFO_tb.sv → Testbench with multiple scenarios
 
 waveforms/ → Simulation outputs (VCD files)
 
