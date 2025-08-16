@@ -1,4 +1,4 @@
-📦 Synchronous FIFO in Verilog
+⚡ Synchronous FIFO in Verilog
 📌 Project Overview
 
 This project implements a Synchronous FIFO (First-In First-Out) memory using Verilog.
