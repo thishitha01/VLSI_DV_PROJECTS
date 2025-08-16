@@ -5,11 +5,11 @@ This repo contains a collection of RTL designs, verification testbenches, and si
 
 📌 Contents
 
- Synchronous FIFO (Verilog + VCS)
+**1.** Synchronous FIFO (Verilog + VCS)
 
- 8-bit ALU with Pipelining (Verilog)
+**2.** 8-bit ALU with Pipelining (Verilog)
 
- 16-bit Multiplier with Assertions & Coverage (SystemVerilog + QuestaSim)
+**3.** 16-bit Multiplier with Assertions & Coverage (SystemVerilog + QuestaSim)
 
 🛠️ Tools & Skills
 
