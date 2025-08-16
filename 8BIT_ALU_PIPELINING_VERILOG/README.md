@@ -1,4 +1,5 @@
 ⚡ 8-bit ALU with Pipelining
+
 📌 Project Overview
 
 This project implements an 8-bit Arithmetic Logic Unit (ALU) in Verilog with pipelining to improve throughput.
