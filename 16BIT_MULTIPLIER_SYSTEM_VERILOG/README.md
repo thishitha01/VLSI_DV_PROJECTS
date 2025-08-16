@@ -1,3 +1,4 @@
+⚡16-bit Multiplier with Assertions & Coverage
 📌 Project Overview
 
 This project implements a 16-bit multiplier in SystemVerilog and verifies it using assertions and functional coverage.
